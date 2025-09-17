@@ -12,4 +12,4 @@ An original interactive 3 night workshop to demonstrate how to build a simple HT
 
 #### HTML Demos (unknown currently)
 - Demonstrate ([text features](https://github.com/SpookySaturnCat/TDA-Portfolio-Website-Workshop/blob/main/night%201/pages/index-example-2-text.html)) and discuss how block-level elements interact
-- Demonstrate [images]([url](https://github.com/SpookySaturnCat/TDA-Portfolio-Website-Workshop/blob/main/night%201/index%20example%203%20-%20images.html)) and discuss how important file structure and thoughtful design is
+- Demonstrate ([images](https://github.com/SpookySaturnCat/TDA-Portfolio-Website-Workshop/blob/main/night%201/index%20example%203%20-%20images.html)) and discuss how important file structure and thoughtful design is
